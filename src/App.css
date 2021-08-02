@@ -1,0 +1,39 @@
+footer {
+  background: var(--customColor);
+  padding: 10px 0;
+}
+
+.fotter__contant {
+  padding: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fotter__top {
+  margin-right: 31px;
+  font-weight: 700;
+}
+
+.fotter__bottom a {
+  margin-right: 10px;
+}
+
+.fotter__bottom a:hover {
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .fotter__contant {
+    padding: 13px 10px;
+  }
+
+  .fotter__top {
+    margin-right: 10px;
+  }
+
+  .fotter__bottom a {
+    margin-right: 5px;
+  }
+}

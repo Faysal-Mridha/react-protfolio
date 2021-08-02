@@ -1,0 +1,8 @@
+export const testimonial =
+    [
+        { id: 1, name: 'Karen Agresti, Founder', dis: ' “The team stood out because of their swift response time and patience. Cubix provided one contact person, which helped streamline project management and coordination. Not only did Cubix follow the budget and timeline, the team even offered additional services at no extra charge.” ', subtitle: 'Nomidate' },
+        { id: 2, name: 'Melissa Steward, VP of Marketing', dis: ' “Willing to accommodate nonprofit budgets, Cubix brought their robust experience to the project. They checked in consistently, and were communicative, easy to reach, and responsive. The Android app shows over 500 downloads to date.” ', subtitle: 'National Fatherhood Initiative' },
+        { id: 3, name: 'John Yates Founder', dis: " “The app sparked interest in the market and attracted initial users, while receiving no complaints about its functionality or usability. Cubix excelled at addressing user experience concerns, communicating clearly, and investing in the project's potential.” ", subtitle: 'Pee Spots' },
+                
+        {id:4,name: 'Michael Guzman, Director',dis:" “Thank you again for the successful launch of the 3M and Converse applications. Your dedication, hard-work, flexibility, patience and professionalism is recognized and appreciated. I would recommend Social Cubix to any company wishing to create their application!” ",subtitle: 'Sapient'}
+    ];

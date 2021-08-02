@@ -1,0 +1,155 @@
+[
+    {   "id":1,   
+        "title": "Google Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+        "link":"https://fm-g.netlify.app",
+        "img":"/img/Screenshot_6.png",
+        "img2":"img/Screenshot_3.png",        
+        "img3":"img/Screenshot_6.png"
+    },
+
+    {   "id":2,
+        "title": "Netflix Clone", 
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+        "link":"https://f-netflix.netlify.app/",
+        "img":"/img/Screenshot_8.png",
+        "img2":"img/Screenshot_9.png",        
+        "img3":"img/received_939631576811474.webp"
+    },
+
+    {   "id":3,
+        "title": "Linkdin Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://faysal-linkedin.netlify.app/",
+         "img":"/img/Screenshot_18.png",
+         "img2":"img/received_118901293635978.webp",         
+         "img3":"img/received_3982370768543838.webp"
+    },
+
+    {   "id":4,
+        "title": "Snapchat Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://faysal-snap.netlify.app/",
+         "img":"/img/Screenshot_12.png",
+         "img2":"img/Screenshot_14.png",         
+         "img3":"img/Screenshot_13.png"
+    },
+
+    {   "id":5,
+        "title": "Gmail Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-gmail.netlify.app/",
+         "img":"/img/Screenshot_21.png",
+         "img2":"img/received_228293735512990.webp",        
+          "img3":"img/received_796809734307455.webp"
+    }
+    ,
+
+    {   "id":6,
+        "title": "Disney + Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-gmail.netlify.app/",
+         "img":"/img/received_1587336198130925.webp",
+         "img2":"img/received_452664865799349.webp",        
+          "img3":"img/received_1654767588058382.webp"
+    }
+    ,
+
+    {   "id":7,
+        "title": "Facebook Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysalmridha-fb.netlify.app/",
+         "img":"/img/received_823553254935660.webp",
+         "img2":"img/received_915924852299379.webp",        
+          "img3":"img/received_475546840441053.webp"
+    }
+    ,
+
+    {   "id":8,
+        "title": "Wather App",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://faysal-wather.netlify.app/",
+         "img":"/img/Screenshot_29.png",
+         "img2":"img/Screenshot_30.png",        
+          "img3":"img/received_3982370768543838.webp"
+    }
+    ,
+
+    {   "id":9,
+        "title": "Massanger - Clone",
+        "dis":"My Created - Google clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-tik-tok.netlify.app/",
+         "img":"/img/Screenshot_31.png",
+         "img2":"img/Screenshot_32.png",        
+          "img3":"img/Screenshot_34.png"
+    },
+    {   "id":10,
+        "title": "You Tube Clone",
+        "dis":"My Created - You Tube clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-youtube.netlify.app/",
+         "img":"/img/Screenshot_43.png",
+         "img2":"img/received_3069686569932629.webp",        
+          "img3":"img/received_1753875124792107.webp"
+    },
+{   "id":11,
+        "title": "Twitter Clone",
+        "dis":"My Created - Twitter clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://twitter.com/",
+         "img":"/img/received_136313918491119.webp",
+         "img2":"img/received_1416289982058706.webp",        
+          "img3":"img/received_3069171149981372.webp"
+    },
+
+    {   "id":12,
+        "title": "Bussnies",
+        "dis":"My Created - Fitness clone with Html css javascript.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-mridha.github.io/html/",
+         "img":"/img/Screenshot_45.png",
+         "img2":"img/Screenshot_46.png",        
+          "img3":"img/Screenshot_47.png"
+    },
+    {   "id":13,
+        "title": "E-commarce - site",
+        "dis":"My Created - Fitness clone with Html css javascript.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://faysal-mridha.github.io/Fitnes/index.html",
+         "img":"/img/Screenshot_48.png",
+         "img2":"img/Screenshot_49.png",        
+          "img3":"img/ecomerce3.png"
+    }
+    ,
+    {   "id":14,
+        "title": "Slack - Clone",
+        "dis":"My Created - Slack clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://faysal-slack.netlify.app/",
+         "img":"/img/slack2.png",
+         "img2":"img/slack1.png",        
+          "img3":"img/Screenshot_19.png"
+    }
+    ,
+    {   "id":15,
+        "title": "Amazon - Clone",
+        "dis":"My Created - Amazon clone with React,Redux,auth.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://fm-amazon.netlify.app/",
+         "img":"/img/Screenshot_10.png",
+         "img2":"img/Screenshot_11.png",        
+          "img3":"img/amazon3.png"
+    }
+        ,
+    {   "id":16,
+        "title": "Protfolio ",
+        "dis":"My Created - Protfolio clone with Html css javascript.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"https://f-protfolio.netlify.app/",
+         "img":"/img/Screenshot_24.png",
+         "img2":"img/Screenshot_25.png",        
+          "img3":"img/Screenshot_35.png"
+    }
+       ,
+    {   "id":17,
+        "title": "Fitness - Website ",
+        "dis":"My Created - Fitness clone with Html css javascript.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+         "link":"http://faysal-fitness.netlify.app/",
+         "img":"/img/Screenshot_36.png",
+         "img2":"img/Screenshot_37.png",        
+          "img3":"img/web3.jpg"
+    }
+]

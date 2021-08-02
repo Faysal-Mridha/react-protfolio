@@ -1,0 +1,264 @@
+.servicesP header {
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.servicesP header {
+  min-height: 100vh;
+}
+
+.sbanner {
+  padding: 15px;
+}
+
+.sbanner .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: 60vh;
+  padding-top: 70px;
+  text-align: center;
+  color: white;
+}
+
+.sBanner_text {
+  padding: 10px;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.sBanner_text h2 {
+  font-size: 40px;
+  line-height: 44px;
+  padding-bottom: 10px;
+}
+
+.sBanner_text p {
+  font-size: 19px;
+}
+
+.arro_icon svg.MuiSvgIcon-root {
+  font-size: 41px;
+  cursor: pointer;
+}
+
+.arro_icon {
+  padding: 5px;
+  animation: animate 1s linear infinite;
+}
+
+@media (max-width: 768px) {
+  .servicesP header {
+    min-height: 85vh;
+  }
+
+  .sBanner_text {
+    max-width: 100%;
+  }
+}
+
+/* degital demand sections */
+section#digitaDemand .container {
+  padding: 10px;
+  max-width: 1300px;
+}
+
+.demad__top {
+  padding: 10px 10px 30px;
+  max-width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.demad__top span {
+  color: var(--customColor);
+  padding: 5px;
+  word-spacing: 1px;
+  font-weight: 300;
+  letter-spacing: 0.3px;
+}
+
+.demad__top h3 {
+  font-size: 38px;
+  padding: 12px;
+  text-transform: capitalize;
+}
+
+.demad__top p {
+  font-size: 20px;
+  line-height: 38px;
+}
+
+.digital_DemandAll {
+  padding: 10px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 30px;
+}
+
+.single_DigitalDemand {
+  padding: 30px 15px;
+  text-align: center;
+  background: #f2f2f2cc;
+  border-radius: 5px;
+  box-shadow: 0px 1px 25px 1px #8080807d;
+  cursor: pointer;
+}
+
+.single_DigitalDemand h2 {
+  font-size: 40px;
+  padding-bottom: 11px;
+  letter-spacing: 2px;
+}
+
+.single_DigitalDemand p {
+  font-weight: 500;
+  font-size: 14px;
+  word-spacing: 1px;
+}
+
+.single_DigitalDemand:hover {
+  box-shadow: 0px 1px 30px 1px #808080c9;
+}
+
+@media (max-width: 768px) {
+  .digital_DemandAll {
+    grid-template-columns: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 20px;
+  }
+
+  .demad__top {
+    max-width: 100%;
+  }
+}
+
+/* service plan section */
+section.ideation .container {
+  max-width: 1300px;
+  padding: 15px;
+}
+
+.services__topTitle {
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.idealtion__all {
+  padding: 15px 0px 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 40px;
+}
+
+.root.dark .plan {
+  color: black;
+}
+.plan {
+  padding: 30px 10px;
+  background: whitesmoke;
+  border-radius: 6px;
+  box-shadow: 0px 1px 30px #808080bf;
+}
+
+.plan h3 {
+  font-size: 22px;
+  padding-bottom: 10px;
+}
+
+.plan p {
+  text-align: center;
+  padding-bottom: 12px;
+  font-size: 17px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+
+.plan ul {
+  padding: 16px 14px;
+}
+
+.plan ul li {
+  list-style-type: decimal;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.plan ul li:hover {
+  text-decoration: underline;
+  color: var(--customColor);
+  transition: 0.3s ease-in-out;
+}
+
+.plan .btn {
+  padding: 15px 13px;
+  font-weight: bold;
+}
+
+.root.dark .plan .btn {
+  color: black;
+}
+
+.plan:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .idealtion__all {
+    grid-template-columns: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 30px;
+  }
+}
+
+/* for more responsive */
+@media (max-width: 578px) {
+  .servicesP header {
+    min-height: 0vh;
+  }
+
+  .sbanner {
+    padding-top: 2rem;
+  }
+
+  .sbanner .container {
+    padding-top: 0;
+  }
+
+  .sBanner_text {
+    max-width: 100%;
+  }
+
+  .sBanner_text h2 {
+    font-size: 23px;
+    line-height: 31px;
+  }
+
+  .sBanner_text p {
+    font-size: 13px;
+  }
+
+  section.testimonial {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .singleTop__title {
+    width: 100%;
+    padding: 10px 0px;
+  }
+
+  .singleTop__title h2 {
+    font-size: 28px;
+  }
+
+  .all_Testimonial {
+    padding: 20px 0;
+  }
+}

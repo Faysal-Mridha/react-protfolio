@@ -1,0 +1,139 @@
+.nav {
+  padding: 1.5rem 3rem;
+  z-index: 99999;
+}
+
+.nav-center {
+  max-width: 1150px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.logo span.color {
+  background-color: var(--customColor);
+  color: white;
+  padding: 1rem 1.2rem;
+  margin-right: 0.7rem;
+  border-radius: 1rem;
+  transition: var(--transition-2);
+}
+
+.nav li:not(:last-child) {
+  margin-right: 0.5rem;
+}
+
+.nav li.theme-icon {
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
+.nav li a:link,
+.nav li a:visited {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  transition: var(--transition-1);
+}
+
+.nav li a:hover {
+  color: var(--customColor);
+}
+
+.theme,
+.close,
+.hamburger {
+  display: none;
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+.nav.fix-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: var(--customColor);
+  transition: var(--transition-2);
+}
+
+.nav.fix-nav .logo span.color {
+  background-color: #fff;
+  color: #000;
+}
+
+.nav.fix-nav .nav-link:hover {
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100%;
+    width: 0%;
+    max-width: 35rem;
+    padding-top: 3rem;
+    background-color: var(--black);
+    transition: var(--transition-2);
+    z-index: 999;
+  }
+
+  .nav-list.openNav {
+    left: 0;
+    width: 100%;
+  }
+
+  .logo {
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .nav li {
+    margin: 0 0 0.5rem;
+    width: 100%;
+  }
+
+  .nav li:first-child {
+    margin-top: 15px;
+  }
+
+  .nav li.theme-icon {
+    display: none;
+  }
+  .nav li:hover {
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  .nav li a {
+    padding: 1rem 0;
+    color: var(--white);
+    font-size: 16px;
+  }
+
+  .hamburger,
+  .theme,
+  .close {
+    display: block;
+  }
+
+  .close:hover {
+    transform: scale(1.3);
+    transition: 0.3s ease-in-out;
+    color: gray;
+  }
+
+  .close {
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    color: var(--white);
+  }
+}
